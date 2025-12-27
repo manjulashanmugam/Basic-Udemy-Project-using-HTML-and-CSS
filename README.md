@@ -15,6 +15,7 @@ Purpose
 - To recreate a real-world website layout for learning
 
 How to View 
+ https://manjulashanmugam.github.io/Basic-Udemy-Project-using-HTML-and-CSS/  by using this link you can visite my page.
 
 This project is part of my learning journey in web development.
 
